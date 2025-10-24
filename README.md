@@ -1,6 +1,6 @@
-# FzdWeb
+# FZD Frontend
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.7.
+This project is the frontend for FZD (F-Zero Discord)'s frontend
 
 ## Development server
 
